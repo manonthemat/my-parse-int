@@ -1,0 +1,26 @@
+{
+  "name": "my-parse-int",
+  "version": "0.0.1",
+  "description": "parsing integers my own way",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -v -t 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manonthemat/my-parse-int.git"
+  },
+  "keywords": [
+    "parseint"
+  ],
+  "author": "Matthias Sieber <matthiasksieber@gmail.com> (https://github.com/manonthemat)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/manonthemat/my-parse-int/issues"
+  },
+  "homepage": "https://github.com/manonthemat/my-parse-int#readme",
+  "devDependencies": {
+    "code": "^1.5.0",
+    "lab": "^5.15.2"
+  }
+}
