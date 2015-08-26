@@ -1,6 +1,6 @@
 {
   "name": "my-parse-int",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "parsing integers my own way",
   "main": "lib/index.js",
   "scripts": {
